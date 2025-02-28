@@ -24,7 +24,7 @@ segtreefmt - Max segment tree
 
 triefmt - String trie
 
-bitmaskfmt - Functions for bitmask problems (i will add more later)
+bitmaskfmt - Functions for bitmask problems (i will probably add more later)
 
 dsufmt - Union Find
 
