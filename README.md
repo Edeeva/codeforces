@@ -32,7 +32,7 @@ rngfmt - Get rng function (Generate number in [a, b])
 
 sparsetablefmt - Sparse Table
 
-lazysegtreefmt - Segtree with range add, range set, range sum using oop too
+lazysegtreefmt - Segtree with range add, range set, range sum. (credit : https://codeforces.com/blog/entry/44478?#comment-290057)
 
 pragmafmt - Pragma headers
 
