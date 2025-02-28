@@ -1,6 +1,6 @@
 # Edeeva's vscode c++ snippets
 
-dont use it its terrible, i literally wrote some of them ages ago
+i wrote some of them ages ago, i will prob write a better one later
 
 ## Prefixes (incase i forget)
 
