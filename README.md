@@ -30,7 +30,7 @@ dsufmt - Union Find
 
 rngfmt - Get rng function (Generate number in [a, b])
 
-sparsetable - Sparse Table
+sparsetablefmt - Sparse Table
 
 lazysegtreefmt - Segtree with range add, range set, range sum using oop too
 
