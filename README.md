@@ -1,8 +1,8 @@
-Edeeva's vscode c++ snippets
+***Edeeva's vscode c++ snippets
 
-Dont use it its terrible (im just used to it)
+**Dont use it its terrible (im just used to it)
 
-Prefixes (incase i forget)
+**Prefixes (incase i forget)
 
 qa - Usual headers
 
