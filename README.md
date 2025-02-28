@@ -37,4 +37,5 @@ lazysegtreefmt - Segtree with range add, range set, range sum using oop too
 pragmafmt - Pragma headers
 
 exgcdfmt - Extended GCD (useful for getting mod inverse with non-prime modulo)
+
 manacherfmt - Manacher's Algorithm
