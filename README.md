@@ -12,7 +12,7 @@ treetst - multitest problems with tree input (with dfs function)
 
 fmtsimple - Short version of Format
 
-fenwickfmt - Fenwick Tree
+fenwickfmt - Fenwick Tree (from https://cp-algorithms.com)
 
 binaryexpo - Binary Exponentation
 
