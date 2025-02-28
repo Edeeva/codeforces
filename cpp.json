@@ -505,18 +505,6 @@
 		],
 		"description": "dsu"
 		},
-		"randomizer": {
-  "prefix": "randfmt",
-  "body": [
-    "// srand(chrono::steady_clock::now().time_since_epoch().count());   ",
-    "int rand(int a, int b)",
-    "{",
-    "    return a + rand() % (b - a + 1);",
-    "}",
-    ""
-  ],
-  "description": "randomizer"
-},
 "The Town Inside Me": {
   "prefix": "thetowninsideme",
   "body": [
