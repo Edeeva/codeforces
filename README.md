@@ -4,13 +4,13 @@ i wrote some of them ages ago, i will prob write a better one later
 
 ## Prefixes (incase i forget)
 
-qa - Usual headers
+qa - Format
 
-tst - Usual headers + multitest problems
+tst - Format, for multitest problems
 
-treetst - multitest problems with tree input (with dfs function)
+treetst - Format, for multitest problems with tree input (dfs function ready)
 
-fmtsimple - Short version of Format
+fmtsimple - Short Format
 
 fenwickfmt - Fenwick Tree (from https://cp-algorithms.com)
 
@@ -32,7 +32,7 @@ rngfmt - Get rng function (Generate number in [a, b])
 
 sparsetablefmt - Sparse Table
 
-lazysegtreefmt - Segtree with range add, range set, range sum. (credit : https://codeforces.com/blog/entry/44478?#comment-290057)
+lazysegtreefmt - Segtree with range add, range set, range sum. (modified from https://codeforces.com/blog/entry/44478?#comment-290057)
 
 pragmafmt - Pragma headers
 
